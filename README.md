@@ -1,10 +1,10 @@
-# Hi, I'm Peter 
+# Hi, I'm Peter 👋
 
 ## About Me
- Data Science enthusiast based in Lagos, Nigeria
- Passionate about financial data, crypto markets, and machine learning
- Currently building projects with Python, pandas, and data visualisation
- Always learning — currently exploring portfolio optimisation and APIs
+- Data Science enthusiast based in Lagos, Nigeria
+-  Passionate about financial data, crypto markets, and machine learning
+-  Currently building projects with Python, pandas, and data visualisation
+-  Always learning — currently exploring portfolio optimisation and APIs
 
 ## Projects
 | Project | Description | Tools |
