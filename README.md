@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Hi, I'm Peter 
 
 ## About Me
 - Data Science enthusiast based in Lagos, Nigeria
